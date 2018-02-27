@@ -1,0 +1,26 @@
+body{padding:30px 0 0 0}
+#content{min-height:800px}
+form
+.search{margin-top:5px;margin-bottom:5px}
+.navbar{margin-bottom:30px}
+.mainmenu{background:#357ebd}
+.mainmenu a,.mainmenu li a{color:#FFF}
+.mainmenu .active a{background:#005eaf;color:#fff}
+.book-thumbnail{margin:0 auto;width:140px}
+.book-info{text-align:center}
+.book-info h4{font-size:90%;margin-bottom:0}
+.book-info p{margin:0}
+.author{font-size:87%}
+.price{font-size:90%}
+.more{font-size:80%}
+.booklist{padding:40px 0 0 0}
+.pricetotal{text-align:right;font-size:150%}
+#footer{height:60px;border-top:1px solid #f5f5f5}
+.container .credit{margin:20px 0}
+.pagination .active a{background:#357ebd;color:#FFF}
+.book-content{padding:15px}
+.book-content p{font-family:Georgia,'Times New Roman',Times,serif;font-size:16px;color:#333;line-height:32px;margin:0 0 30px 0;padding:0 50px 0 50px;text-align:justify}
+.bookinfo .yourprice span{font-size:100%}
+.comment{padding:10px 0;border-bottom:1px #6a6a6a dotted}
+.comment strong{text-decoration:underline}
+.commentform button{margin:10px}.sorts{padding-top: 5px;}
